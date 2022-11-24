@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikhilbj
+- 👋 Hi, I’m NIKHIL BELAVATHA JAYARAM
 - 👀 I’m interested in Data Analytics and Data Engineering roles
 - 🌱 I’m currently learning computation and visualization of data
 - 💞️ I’m looking to collaborate on 
